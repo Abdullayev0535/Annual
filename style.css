@@ -1,0 +1,170 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.container{
+    width: 1515px;
+    height: 1200px;
+    float: left;
+    background-image: url(backrauond.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+.top{
+    width: 1000px;
+    height: 300px;
+    float: left;
+    background-color: white;
+    border-top-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+}
+
+.left{
+    width: 900px;
+    height: 300px;
+    float: left;
+    background-color: white;
+    position: absolute;
+    top: 300px ;
+    left: 200px;
+}
+
+.center{
+    width: 900px;
+    height: 450px;
+    float: left;
+    background-color: white;
+    border-bottom-left-radius:100% ;
+    border-bottom-right-radius:100% ;
+    position: absolute;
+    top: 600px ;
+    left: 200px;
+}
+
+.prymatech{
+    width: 350px;
+    height: 80px;
+    float: left;
+    position: fixed;
+    top: 30px;
+    left: 100px;
+}
+
+.red{
+    width: 100px;
+    height: 80px;
+    float: left;
+    border-radius: 20px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.dem{
+    position: absolute;
+    top: -40px;
+    left: 10px;
+}
+
+.right{
+     width: 250px;
+     height: 80px;
+     float: left;
+     position: absolute;
+     left: 100px;
+}
+
+h2{
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+span{
+    padding-left: 25px;
+    padding-top: 15px;
+    color: grey;
+}
+
+.black{
+    width: 500px;
+    height: 250px;
+    position: absolute;
+    top: -300px;
+    right: 200px;
+}
+
+.annual{
+    font: 5em bold sans-serif ;
+    padding-left: 70px ;
+    padding-top: 50px;
+}
+
+.report{
+    font: 3em bold sans-serif ;
+    padding-left: 200px ;
+    padding-top: 20px;
+    border-bottom: 5px solid black;
+}
+
+.lorem{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: -70px;
+    right: 200px;
+}
+
+.lor{
+    font-size: 1.5em;
+    color: gray;
+}
+
+.lore{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    top: 170px;
+    right: 200px;
+}
+
+.num{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    top: 170px;
+    right: -110px;
+}  
+
+.l{
+    padding-top: 30px;
+}
+
+.number{
+    font-size: 7em;
+    padding-left: 50px;
+    color: red;
+}
+
+
+.icon{
+    width: 250px;
+    height: 500px;
+    float: left;
+    position: absolute;
+    bottom: 100px;
+    left: 0;
+}
+
+i{
+    margin: 15px;
+    margin-top: 50px;
+}
+
+a{
+    font-size: 0.8em;
+    text-decoration: none;
+    color: black;
+    padding-left: 15px;
+}
